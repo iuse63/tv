@@ -44,8 +44,8 @@
             }
         },
 {"key":"豆瓣","name":"🌕推荐┃豆瓣","type":3,"api":"csp_Douban","searchable":0,"indexs":1},
-{"key":"直播转点播","name":"直播┃点播","type":3,"api":"https://raw.kkgithub.com/iuse63/otherbox/main/live/live2cms.js","ext":"https://raw.kkgithub.com/iuse63/otherbox/main/live/live2mv_data.json","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"直播转点播1","name":"电视直播📺","type":3,"api":"https://raw.kkgithub.com/iuse63/otherbox/main/live/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"https://raw.kkgithub.com/iuse63/otherbox/main/live/%E7%9B%B4%E6%92%AD.txt"}
+{"key":"直播转点播","name":"直播┃点播","type":3,"api":"./live/live2cms.js","ext":"./live/live2mv_data.json","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"直播转点播1","name":"电视直播📺","type":3,"api":"./main/live/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"./live/%E7%9B%B4%E6%92%AD.txt"}
 
 ],
 "lives":[
