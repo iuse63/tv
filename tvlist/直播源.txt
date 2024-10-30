@@ -1,4 +1,8 @@
 
+潮州电台,#genre#
+潮州公共,http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
+潮州综合,http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
+
 央视频道,#genre#
 CCTV1,http://39.98.201.151:9090/udp/225.1.8.101:8080
 CCTV1,http://39.98.201.151:9090/udp/225.1.8.1:8008
