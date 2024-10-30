@@ -49,7 +49,7 @@
 
 ],
 "lives":[
-{"name":"tv","type":0,"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/tv/main/tvlist/tvlist/直播源.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
+{"name":"tv","type":0,"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/tv/main/tvlist/直播源.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
