@@ -1,5 +1,7 @@
+潮州频道,#genre#
+潮州公共,http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8
+潮州综合,http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8
 NBA咪咕,#genre#
-抖姐舞看NBA,http://rihou.cc:555/mp4?id=lndjll.mp4
 NBA咪咕播01,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId= 
 NBA咪咕播02,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA咪咕播03,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -56,7 +58,6 @@ NBA咪咕播53,http://111.13.111.242/000000001000/3000000010000032106/index.m3u8
 NBA咪咕壹4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 NBA咪咕贰4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 欣赏频道,#genre#
-抖音姐姐热舞,http://rihou.cc:555/mp4?id=lndjll.mp4
 国语译制电影,http://cfss.cc/cdn/dyu/2436390.m3u8
 第一滴血全集,http://cfss.cc/cdn/yy/1354932355.m3u8
 敢死队全轮播,http://cfss.cc/cdn/yy/1382735573.m3u8
